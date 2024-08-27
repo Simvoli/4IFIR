@@ -6,7 +6,7 @@
 
 **NOTICE**: if something went wrong and the system does not boot, go to Hekate and select the semi-stock mode. There you can go to 4IFIR Wizard and change the value that caused the crash.
 
-  - If you are unable to go to semi-stock and the console does not start after configuring anything **4IFIR Wizard**, you can replace the file `atmosphere/kips/loader.kip` with a backup of your previous kip, *do not forget to rename the backup file to `loader.kip`*. Kip backups are located in the `atmosphere/kips/.bak` folder (enable invisible folders in Explorer). If there are no backups, you can get the standard `loader.kip` from your version of 4IFIR in the `atmosphere/kips/loader.kip` folder.
+  - If you are unable to go to semi-stock and the console does not start after configuring anything in **4IFIR Wizard**, you can replace the file `atmosphere/kips/loader.kip` with a backup of your previous kip, *do not forget to rename the backup file to `loader.kip`*. Kip backups are located in the `atmosphere/kips/.bak` folder (enable invisible folders in Explorer). If there are no backups, you can get the standard `loader.kip` from your version of 4IFIR in the `atmosphere/kips/loader.kip` folder.
 
 **WARNING!!!** If at any stage of testing there is a freeze, the game hangs, artifacts appear on the screen, or any unexpected behavior of the console is observed, the selected parameter does not suit the console. Try selecting another value.
 
